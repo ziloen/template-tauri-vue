@@ -16,7 +16,7 @@
   "devDependencies": {
     "@tauri-apps/cli": "^1.2.1",
     "@types/node": "^18.11.11",
-    "@vitejs/plugin-vue": "^3.2.0",
+    "@vitejs/plugin-vue": "^4.0.0",
     "@ziloen/eslint-config": "^0.0.78",
     "@ziloen/eslint-config-format": "^0.0.78",
     "eslint": "^8.29.0",
